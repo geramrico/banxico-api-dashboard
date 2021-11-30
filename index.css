@@ -71,7 +71,8 @@ img {
 }
 
 .nav-link:hover,
-.nav-link:active {
+.nav-link:active,
+.card:focus {
     color: var(--color-secondary);
 }
 
@@ -109,6 +110,7 @@ img {
 }
 
 .card:hover,
+.card:focus,
 .card:active {
   box-shadow: rgba(251, 255, 28, 0.35) 0px 5px 15px;
 }
