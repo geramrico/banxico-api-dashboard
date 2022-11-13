@@ -1,6 +1,6 @@
 const root = document.getElementById("root");
 
-const token = "153e824c387406f12bff4270919a1aae26164bbaa2768c07eda5700517099a29";
+const token = "9d126726e46018274a61cb957cbbb4a78db239c9d0984f622c0fb0fb8ebf2059";
 
 const url = `https://www.banxico.org.mx/SieAPIRest/service/v1/series/SF60653,SF43718,SP68257,SF43707,SF61745,SF60648,SF60633,SP30577/datos/oportuno?token=${token}`;
 
